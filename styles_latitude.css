@@ -1,0 +1,27 @@
+a.navbar-brand {
+  color: blue;
+  font-size: large;
+  font-style: italic;
+} 
+body {
+    background-image: url("https://wallpapersite.com/images/pages/pic_w/18587.jpg");
+  }
+body.container {
+    padding: 15px;
+}
+div.sm-col-8 {
+    padding: 20px;
+}
+nav {
+    font-style: italic;
+    padding: 10px;
+}
+div.sm-col-4 {
+    padding: 20px;
+}
+footer {
+    padding: 20px;
+}
+img {
+    padding: 4px;
+}
